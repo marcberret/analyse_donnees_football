@@ -8,4 +8,4 @@ Ce projet a pour objectifs de faire <b>une analyse d'une base de données</b> su
 ## Liens 
 
 *  [Code](
-* [Synthèse des résultats]
+* [Synthèse des résultats](https://github.com/marcberret/analyse_donnees_football/blob/main/Pr%C3%A9sentation_projet.pdf)
