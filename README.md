@@ -5,5 +5,5 @@ Ce projet a pour objectif de faire <b>une analyse d'une base de données</b> sur
 
 ## Liens 
 
-*  [Code](https://github.com/marcberret/analyse_donnees_football/blob/main/main.ipynb)
-* [Synthèse des résultats](https://github.com/marcberret/analyse_donnees_football/blob/main/Pr%C3%A9sentation_projet.pdf)
+*  [**Code**](https://github.com/marcberret/analyse_donnees_football/blob/main/main.ipynb)
+* [**Synthèse des résultats**](https://github.com/marcberret/analyse_donnees_football/blob/main/Pr%C3%A9sentation_projet.pdf)
